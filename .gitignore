@@ -13,3 +13,6 @@ pnpm-debug.log*
 
 # OS
 Thumbs.db
+"node_modules/" 
+".env" 
+"*.log" 
